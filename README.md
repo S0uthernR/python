@@ -1,2 +1,2 @@
 # python
-A repository of various Python programs
+A repository of various Python programs.
